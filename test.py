@@ -1,8 +1,7 @@
 from StudentVUE_API import StudentVUE_API
 
 
-new_Session = StudentVUE_API("https://ca-mpusd-psv.edupoint.com/PXP2_Login_Student.aspx?regenerateSessionId=true", 
-                             "https://ca-mpusd-psv.edupoint.com/PXP2_CourseHistory.aspx?AGU=0")
+new_Session = StudentVUE_API()
 
 new_Session.set_username("")
 new_Session.set_password("")
