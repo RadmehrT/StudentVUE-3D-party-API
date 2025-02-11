@@ -1,0 +1,338 @@
+[
+    {
+        "CourseTitle": "Civics",
+        "CourseID": "SS4000",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "IB Chem HL1",
+        "CourseID": "SC6012",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "IB English HL1",
+        "CourseID": "EN6100",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "IB Hist Americas HL1",
+        "CourseID": "SS6002",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "IB Math AA HL1",
+        "CourseID": "MA6002",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "IB Psych HL 1",
+        "CourseID": "EE6002",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "IB Span SL1",
+        "CourseID": "LG6000",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "PE 2",
+        "CourseID": "PE1020",
+        "Mark": "A",
+        "CreditsAttempted": "10.00",
+        "CreditsCompleted": "10.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Biotech 1",
+        "CourseID": "CT1101co",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Chamber Orches",
+        "CourseID": "FV1313",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Chem",
+        "CourseID": "SC1020",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Eng 2",
+        "CourseID": "EN2000",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "HN Physics",
+        "CourseID": "SC5000",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "IB Math AA SL1",
+        "CourseID": "MA6000",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Span 2",
+        "CourseID": "LG1012",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Wld His",
+        "CourseID": "SS2000",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Biotech 1",
+        "CourseID": "CT1101co",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Chamber Orches",
+        "CourseID": "FV1313",
+        "Mark": "A+",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Chem",
+        "CourseID": "SC1020",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Eng 2",
+        "CourseID": "EN2000",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "HN Physics",
+        "CourseID": "SC5000",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "IB Math AA SL1",
+        "CourseID": "MA6000",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Span 2",
+        "CourseID": "LG1012",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Wld His",
+        "CourseID": "SS2000",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Elementary Spanish",
+        "CourseID": "LG8010",
+        "Mark": "A",
+        "CreditsAttempted": "10.00",
+        "CreditsCompleted": "10.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Programming Fund:Python",
+        "CourseID": "EE8010",
+        "Mark": "A",
+        "CreditsAttempted": "10.00",
+        "CreditsCompleted": "10.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "AP Human Geog",
+        "CourseID": "SS7001",
+        "Mark": "B",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Bio 1",
+        "CourseID": "SC1010",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Chamber Orches",
+        "CourseID": "FV1313",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Eng 1",
+        "CourseID": "EN1000",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Freshman Seminar",
+        "CourseID": "EE1011",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Integ Math 2",
+        "CourseID": "MA1200",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "PE 9 Health / Wellns",
+        "CourseID": "PE1001",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Span 1",
+        "CourseID": "LG1011",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "AP Human Geog",
+        "CourseID": "SS7001",
+        "Mark": "B",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Bio 1",
+        "CourseID": "SC1010",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Chamber Orches",
+        "CourseID": "FV1313",
+        "Mark": "A+",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Eng 1",
+        "CourseID": "EN1000",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Ethnic Studies",
+        "CourseID": "EE1106",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Integ Math 2",
+        "CourseID": "MA1200",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "PE 9 Health / Wellns",
+        "CourseID": "PE1001",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    },
+    {
+        "CourseTitle": "Span 1",
+        "CourseID": "LG1011",
+        "Mark": "A",
+        "CreditsAttempted": "5.00",
+        "CreditsCompleted": "5.00",
+        "CHSType": "High School"
+    }
+]
