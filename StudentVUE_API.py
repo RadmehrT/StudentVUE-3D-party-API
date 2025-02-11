@@ -57,10 +57,8 @@ class StudentVUE_API:
             
     def run(self):
 
-        #For MPUSD use: https://ca-mpusd-psv.edupoint.com/PXP2_Login_Student.aspx?regenerateSessionId=true
         #Course_History URL will have to be updated based on district as well.
-        #For MPUSD course_history use this: https://ca-mpusd-psv.edupoint.com/PXP2_CourseHistory.aspx?AGU=0
-        
+       
         LOGIN_URL = self.studentVUE_URL
         try:
             USERNAME = self.username
