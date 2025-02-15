@@ -1,1 +1,1 @@
-Currently there is no documentation as this is very beta. However you can check the StudentVUE_API.py folder to find all of the code. test.py is the an example of all the code without all of the data filled in. 
+Currently there is no documentation as this is very beta. However you can check the StudentVUE_WebScraper.py folder to find all of the code. test.py is the an example of all the code without the required parameters. 
