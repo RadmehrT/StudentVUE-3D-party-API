@@ -1,7 +1,7 @@
-from StudentVUE_API import StudentVUE_API
+from StudentVUE_WebScraper import StudentVUE_WebScraper
 
 
-new_Session = StudentVUE_API()
+new_Session = StudentVUE_WebScraper()
 
 new_Session.set_username("")
 new_Session.set_password("")
