@@ -1,1 +1,3 @@
-Currently there is no documentation as this is very beta. However you can check the StudentVUE_WebScraper.py folder to find all of the code. test.py is the an example of all the code without the required parameters. 
+No documentation for project as of now
+
+check StudentVue file for comments and code
